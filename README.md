@@ -1,2 +1,2 @@
 # app-SocialX
-X app built for Oniro
+SocialX app built for Oniro
